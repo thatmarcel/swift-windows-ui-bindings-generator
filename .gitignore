@@ -1,0 +1,5 @@
+.DS_Store
+/generated
+/nuget.exe
+/packages
+/config.rsp

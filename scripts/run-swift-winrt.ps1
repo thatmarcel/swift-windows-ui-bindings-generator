@@ -1,0 +1,1 @@
+& .\packages\TheBrowserCompany.SwiftWinRT.0.6.0\bin\swiftwinrt.exe "@.\config.rsp"
