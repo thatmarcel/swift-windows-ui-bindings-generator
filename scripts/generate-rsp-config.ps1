@@ -1,6 +1,9 @@
 $RspFileContents = @"
 -output .\generated
 -exclude Windows.Foundation.PropertyValue
+-exclude Windows.Devices.Enumeration.Panel
+-exclude Windows.Management.Deployment.PackageStatus
+-exclude Windows.ApplicationModel.Core.CoreApplication
 
 -include Microsoft.Graphics.Canvas
 -include Microsoft.Graphics.Canvas.UI.Xaml
