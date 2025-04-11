@@ -1,5 +1,6 @@
 $RspFileContents = @"
 -output .\generated
+-exclude Windows.Foundation.PropertyValue
 
 -include Microsoft.Graphics.Canvas
 -include Microsoft.Graphics.Canvas.UI.Xaml
