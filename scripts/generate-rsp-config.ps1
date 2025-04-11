@@ -1,7 +1,5 @@
 $RspFileContents = @"
 -output .\generated
--input 10.0.22000.0
--reference 10.0.22000.0
 
 -include Microsoft.Graphics.Canvas
 -include Microsoft.Graphics.Canvas.UI.Xaml
